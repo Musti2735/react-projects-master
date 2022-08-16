@@ -1,30 +1,19 @@
 # React Projects
 
-#### React Course
+Jhon Smilga tarafından hazırlanan [React Tutorial](https://youtu.be/iZhV0bILFb0) eğitim videosunda yer alan örnek projeler üzerine yaptığım çalışmadır. 
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
-#### Support
-
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
-#### Tutorial Video
-
-[React Tutorial](https://youtu.be/iZhV0bILFb0)
-
-#### All Projects
-
-[Projects Site](https://react-projects.netlify.app/)
+Her bir projede yer alan final dosyası çalışmanın orjinal kodları olup, setup dosyası içinde yer alan kodlar kendi yazdığım kodlardır.
+JS dosyaları içinde Türkçe açıklamalar verilmiştir. 
 
 ## Corresponding Tutorial Topics
 
 #### useState
 
-1. Birthday Reminder
+1. Birthday Reminder - Yapıldı
 
 #### useEffect and Conditional Rendering
 
-2. Tours
+2. Tours - Yapılıyor
 3. Reviews
 4. Questions
 5. Menu
