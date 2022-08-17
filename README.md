@@ -9,13 +9,13 @@ JS dosyaları içinde Türkçe açıklamalar verilmiştir.
 
 #### useState
 
-1. Birthday Reminder - Yapıldı
+1. Birthday Reminder 
 
 #### useEffect and Conditional Rendering
 
-2. Tours - Yapılıyor
-3. Reviews
-4. Questions
+2. Tours - Yapıldı
+3. Reviews - Yapıldı
+4. Questions - Yapılıyor
 5. Menu
 6. Tabs
 7. Slider
