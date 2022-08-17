@@ -15,3 +15,9 @@ const Tours = ({tours,  removeTour}) => {
 };
 
 export default Tours;
+
+
+/*
+app.js de fetch ile içe aktardığımız tours datasını map methodu ile liste halinde return ettik. 
+
+*/
