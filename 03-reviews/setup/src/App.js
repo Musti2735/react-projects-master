@@ -20,5 +20,5 @@ export default App;
 
 
 /*Reviews Componentini app.js içinde kullandık.
-
+ 
 */
