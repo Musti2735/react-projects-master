@@ -23,10 +23,11 @@ const Menu = ({ items }) => {
       })}
     </div>
   )
-
-
-
-
 };
 
 export default Menu;
+
+
+/*
+props olarak gelen menuItemleri bir obje olduğu için objenin keylerini menuItem içinde tanımlayarak ekran görebilmek için return ettik.
+*/
