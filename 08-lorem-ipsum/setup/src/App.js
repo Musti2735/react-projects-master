@@ -42,3 +42,18 @@ function App() {
 }
 
 export default App;
+
+
+/*
+
+Data içinde 8 öğeden oluşan bir text listemiz var. Kullanıcının 0-8 arasında girdiği değer kadar paragrafı ekranda yazdırmak için,
+
+data içindeki text değerimizi ve kullanıcının giriş yapacağı paragraf sayısını useState ile tanımladık.
+
+Kullanıcının girdiği değeri bir form ile alıyoruz. Form return ettiğimiz için onSubmit değerine bir handleSubmit adında bir fonksiyon atadık. Bu fonksiyon ile değer kontrolü yaptıktan sonra setText ile text değerimizi manipule ediyoruz ve kullanıcını girdiği değere kadar listeyi slice ediyoruz. Böykelikle 8'e kadar kaç değeri girilirse text değişkenimizi 0 ile girilen değer kadar oluyor. Ekranda girilen değer str olduğu için parseInt ile numbera çeviriyoruz.
+
+input için  onChange ile o an girilen değeri alıp setCount ile count değişkenine tanımlıyoruz.
+
+slice ile manipule edilen text değişkenini map fonksiyonu ile ekranda göstermek için return ediyoruz.
+
+*/
