@@ -15,16 +15,16 @@ JS dosyaları içinde Türkçe açıklamalar verilmiştir.
 
 2. Tours - Yapıldı
 3. Reviews - Yapıldı
-4. Questions - Yapılıyor
-5. Menu
+4. Questions - Yapıldı
+5. Menu - Yapıldı
 6. Tabs
-7. Slider
+7. Slider - Yapıldı
 
 #### Forms
 
-8. Lorem Ipsum Generator
-9. Color Shades Generator
-10. Grocery Bud
+8. Lorem Ipsum Generator - Yapıldı
+9. Color Shades Generator - Yapıldı
+10. Grocery Bud - Yapılıyor...
 
 #### useRef
 
