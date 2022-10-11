@@ -1,10 +1,14 @@
 import React, { useState, useEffect } from 'react'
 import Loading from './Loading'
 import Tours from './Tours'
+import './index.css'
+
 
 const url = 'https://course-api.com/react-tours-project'
 
 function App() {
+  const [mode, setMode] = useState('light')
+
   const [loading, setLoading] = useState(true);
   const [tours, setTours] = useState([]);
 
@@ -42,6 +46,12 @@ function App() {
 
   if (tours.length === 0) {
     return <main>
+      <div>
+        <label className="switch">Buton
+          <input type="checkbox"></input>
+            <span className="slider"></span>
+        </label>
+      </div>
       <div className='title'>
         <h2>No Tours Left</h2>
         <button className='btn' onClick={fetchTours} >Refresh</button>
