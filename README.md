@@ -24,11 +24,11 @@ JS dosyaları içinde Türkçe açıklamalar verilmiştir.
 
 8. Lorem Ipsum Generator - Yapıldı
 9. Color Shades Generator - Yapıldı
-10. Grocery Bud - Yapılıyor...
+10. Grocery Bud - Yapıldı
 
 #### useRef
 
-11. Navbar
+11. Navbar - Yapılıyor...
 
 #### useContext
 
